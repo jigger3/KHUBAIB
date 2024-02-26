@@ -2,3 +2,10 @@ cout<<"Name:"Muhammad Khubaib"<<endl;
 cout<<"Roll No: 23ST017"<<endl;
 cout<<"FSC SUBJECT:MATH,COMPUTER,PHYSICS,ENGLISH,BILOGY"<<endl;
 cout<<"1st-semmester subject:ICT,OHS,PROGRAMING,PHYSICS,QUATITATIVE REASONONING,"<<endl;
+cout<<"2nd semmmester subject:
+.SOFTWARE CONFIGRATIOM
+.DISCRETE STRUCTURE
+.OOPS
+.PROBABLITY
+.ENGLISH
+.SDLC"<<ENDL;
